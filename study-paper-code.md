@@ -1,0 +1,1 @@
+/home/z/mine/src/awesome-cursorrules/zsf-claude/study-paper-code.md
